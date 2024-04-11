@@ -241,6 +241,6 @@ NumPy is licensed under the [BSD 3-Clause License](https://github.com/numpy/nump
 
 NumPy is an open-source project that thrives thanks to the contributions of many individuals and organizations. We extend our heartfelt thanks to all contributors.
 
----
+---..
 
 
